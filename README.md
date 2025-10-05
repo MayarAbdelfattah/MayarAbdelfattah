@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:0A66C2,100:00B4DB&height=200&section=header&text=Hi%20I'm%20Mayar%20Abdelfattah%20👋&fontSize=35&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:CFA2FF,100:E0BBFF&height=200&section=header&text=Hi%20I'm%20Mayar%20Abdelfattah%20👋&fontSize=35&fontColor=ffffff)
 
 # 👩‍💻 Mayar Abdelfattah
 
@@ -17,7 +17,7 @@ I enjoy exploring data, building predictive models, and transforming raw informa
 
 Skilled in **Python, SQL, and Power BI**, with hands-on experience in **data preprocessing, feature engineering, and model evaluation** using tools like **Pandas, NumPy, Scikit-learn, TensorFlow, Keras, and Hugging Face Transformers**.  
 
-Familiar with **database design and optimization** and love creating **interactive dashboards and reports** to visualize analytical results effectively.  
+Familiar with **database design, optimization, and query writing**, and love creating **interactive dashboards and reports** to visualize analytical results effectively.  
 Eager to grow as a **Junior Data Analyst / Data Scientist**, applying data-driven approaches to solve real-world challenges.  
 
 ---
@@ -25,14 +25,21 @@ Eager to grow as a **Junior Data Analyst / Data Scientist**, applying data-drive
 ## 🧰 Languages and Tools  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&l
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-9ECAE1?style=for-the-badge&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-85C1E9?style=for-the-badge&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Odoo ERP](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -76,18 +83,3 @@ Exploratory Data Analysis on U.S. county health data using **Python (Pandas, Sea
 ---
 
 ⭐ *“Turning data into knowledge, and knowledge into impact.”*
-
-<!--
-**MayarAbdelfattah/MayarAbdelfattah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
