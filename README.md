@@ -38,7 +38,7 @@ Eager to grow as a **Junior Data Analyst / Data Scientist**, applying data-drive
 
 ## 📊 Featured Projects  
 
-### 🛒 [Pro-Mart (Graduation Project)](https://github.com/MayarAbdelfattah/Pro-Mart)
+### 🛒 [Pro-Mart (Graduation Project)](https://github.com/MayarAbdelfattah/ProMart)
 An intelligent e-commerce system integrating **AI and ERP** for personalized product recommendations.  
 - Built a **recommendation model** using **SVD** in Python.  
 - Contributed to the **UI/Front-end development** using Odoo.  
@@ -48,7 +48,7 @@ Comprehensive analysis and preprocessing of a wage dataset using **Pandas and Sc
 - Handled outliers with the **IQR method**, applied **log transformations**,  
   and implemented **Z-score and Min-Max scaling** for feature normalization.  
 
-### 🩺 [US County Health Rankings EDA](https://github.com/MayarAbdelfattah/Health-Rankings-EDA)
+### 🩺 [US County Health Rankings EDA](https://github.com/MayarAbdelfattah/EDA)
 Exploratory Data Analysis on U.S. county health data using **Python (Pandas, Seaborn)**.  
 - Cleaned and handled large missing-value datasets.  
 - Used **correlation matrices** and **scatter plots** to identify statistical relationships.  
